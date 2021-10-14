@@ -1,1 +1,1 @@
-- [supplement](http://localhost:8000/project/supplement.pdf){: target="_blank" }
+- [supplement](docs/project/supplement.pdf){: target="_blank" }
