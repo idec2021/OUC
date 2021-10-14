@@ -1,1 +1,2 @@
-- [supplement](docs/project/supplement.pdf){: target="_blank" }
+- [supplement.pdf](https://github.com/idec2021/Edinburgh/files/7343817/supplement.pdf)
+
