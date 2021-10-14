@@ -1,6 +1,9 @@
+# **iDEC 2021 | OUC**<img width="180" src="https://user-images.githubusercontent.com/91862733/137267947-fca77dee-1fe0-4d3b-b5de-8823155fe751.png" img align= "right">
 
-# <b>iDEC 2021 | OUC</b>
-# <span style="color:royalblue"> **CRISPR-guided DNA polymerases enable directed evolution of luciferase** </span>
+<div style="text-align: left">
+<h2><strong>CRISPR-guided DNA polymerases enable directed evolution of luciferase.</strong></h2>
+</div>
+<hr style="height:3px;border:none;color:#808080;background-color:#808080;" />
 
 ![GraphicalOverview](https://user-images.githubusercontent.com/91862733/136969711-fd247614-6f98-4fbc-acd3-490ee0aeefb2.jpg)
 

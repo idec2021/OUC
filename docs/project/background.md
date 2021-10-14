@@ -1,5 +1,5 @@
-
-# <b>Project Background</b>
+# **Project Background**
+<hr style="height:3px;border:none;color:#808080;background-color:#808080;" />
 
 In order to study the expression and regulation of genes in cells more directly and deeply, scholars put forward the concept of reporter gene, and developed many widely used and mature reporter gene systems based on this. The luciferase lux， which found in the vibrio genome, is also a member of the systems. 
 

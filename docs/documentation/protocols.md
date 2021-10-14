@@ -1,6 +1,9 @@
-# <b>Materials and Methods</b>
+# **Materials and Methods**
+<hr style="height:3px;border:none;color:#808080;background-color:#808080;" />
 
 ##1.Seamless cloning MasterMix constructs plasmid
+
+<div style="text-align: justify">
 
 ###1.1  DNA manipulation. 
 PCR was performed with 2×Taq PCR MasterMix (Solarbio, Beijing, China). Plasmid DNA was isolated with the TIANprep Mini Plasmid Kit (TIANGEN, Bejing, China). DNA fragments were purifified from agarose gels by using the Universal DNA Purufucation Kit (TIANGEN, Bejing, China) or the Monarch DNA Gel Extraction Kit (NEB). DNA sequencing and primer synthesis were carried out by Sangon Biotech (Shanghai, China). 
@@ -15,9 +18,15 @@ c.A new pEvolvR plasmid expressing enCas9-PolI3M-TBD with gRNA targeting *luxAB*
 d.Two plasmids were both constructed using the Seamless cloning Master Mix provided by Sangon Biotech (Shanghi, China). The plasmids pTarget-luxAB and pEvolvR were cotransformed into E. coli strainDH5α, following the specification steps provided.
 
 ##2.Structural forecasting
+
+<div style="text-align: justify">
+
 The nucleotide sequences of gene *luxa* and *luxb* of *fg-1* were translated into amino acid sequences from the first promoter. The structures of both *luxa* and *luxb* protein were predicted by [phyre2](http://www.sbg.bio.ic.ac.uk/phyre2/html/page.cgi?id=index) through homology modeling method. Futher analysis of protein structure including the alignment and sites labeling were accomplished by PyMol.
 
 ##3.Fluctuation Test
+
+<div style="text-align: justify">
+
 ###3.1.Optimize the scale of training
 - Start LB cultures of each E. coli strain and grow culturesovernight at 37°C with orbital shaking at 170 rpm.
 - Prepare selective media.
