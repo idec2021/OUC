@@ -3,21 +3,21 @@
 
 ## 1. Species identification and structural prediction
 
-We constructed phylogenetic tree of 16S rRNA gene to identified a cyan light-emitting luminescent bacteria strain, *Vibrio FG-1*, which was isolated from the Yellow sea. Close phylogentic relationship between *Allivibrio finisterrensis* and *Vibrio FG-1* was reflected by MEGAX analysis. (Figure 1) Phylogenetic tree construction of *luxA* has shown that the *luxA* of *Vibrio FG-1* is closely related to *luxA* of *Aliivibrio Salmonicida* and *Aliivibrio Fischeri* (Figure 2).
+We construct phylogenetic tree of 16S rRNA gene to identify a cyan light-emitting luminescent bacteria strain, *Vibrio FG-1*, which was isolated from the Yellow sea. Close phylogentic relationship between *Allivibrio finisterrensis* and *Vibrio FG-1* is reflected by MEGAX analysis(Figure 1). Phylogenetic tree construction of *luxA* has shown that the *luxA* of *Vibrio FG-1* is closely related to *luxA* of *Aliivibrio Salmonicida* and *Aliivibrio Fischeri* (Figure 2).
 
 <img src="https://user-images.githubusercontent.com/91862733/137275203-c489b2fe-6ed8-4a34-8d60-f147add09787.png" width = "400">
 
-<em><strong>Figure 1. FG-1’s Phylogenetic tree of 16s</strong> Phylogenetic tree was constructed based on 16S rRNA genes. *Vibrio FG-1* belonged to *Allivibrio* group with a confidence level of 96% and has a high phylogentic relationship with *Aliivibrio* finisterrensis.</em>
+<em><strong>Figure 1. Phylogenetic tree of vibrio FG-1 </strong> Phylogenetic tree was constructed based on 16S rRNA genes. *Vibrio FG-1* belonged to *Allivibrio* group with a confidence level of 96% and has a high phylogentic relationship with *Aliivibrio* finisterrensis.</em>
 
 <img src="https://user-images.githubusercontent.com/91862733/137275204-0fbf06fa-3c62-432a-b9ba-f99583d92d2c.png" width = 400">
 
-<em><strong>Figure 2. lux protein’s Phylogenetic tree of FG-1</strong>Phylogenetic tree construction of luxA has shown that Vibrio FG-1 is closely related to *Aliivibrio Salmonicida* and *Aliivibrio Fischeri*, with a confidence level of 95%.</em>
+<em><strong>Figure 2. Phylogenetic tree of α subunit of luciferase</strong>Phylogenetic tree construction of luxA has shown that Vibrio FG-1 is closely related to *Aliivibrio Salmonicida* and *Aliivibrio Fischeri*, with a confidence level of 95%.</em>
 
 We designed primers and amplified *luxA* and *luxB* genes of luciferase. In the predicted structure of the α and β subunit of the luciferase we obtained, similarities to the same subunits of *Vibrio harveyi* were observed. Under this circumstance, we hypothesized that two subunits will combine with each other and form an asymmetrical structure (Figure 3a, b). The Asp113, RHis44, RLys112 and RHis45 at the α subunit we predicted (Figure 3e), which will electrostatic stability interact with each other after binding to FMN [1], indicates that this α subunit will also bind to FMN. In this luciferase, the FMN binding site at α subunit, Ala75, mutated to Gly (Figure 3c), but considering that this situation also exists in some bacterial luciferase [2], we could not confirm the influence of this substitute of amino acid. In addition, mutations in Cys106 at α subunit may lead to the instability of intermediate 4a,5-dihydro-4a-hydroperoxy flavin [3] and further reduce the enzyme activity. Also, the substitutions Y151D on the β subunit (Figure 3d) may also lead to reductions in luciferase activity and total quantum yield [1]. Besides, A series of mutations occurred in amino acid residues on mobile loop， which did not report in previous studies. Considering that mobile loop is the boundary between the active center and the outside world [3], the mutation of contact site probably result in the decrease of enzyme activity.  Furthermore, A series of mutations occurred on the mobile loop of α subunit, including an F272H, which has not been reported before. Given that the mobile loop worked as a boundary between the active center and the solvent [1], the mutation of this contact site may lead to the decrease of enzyme activity and deserves more attention.
 
 <img src="https://user-images.githubusercontent.com/91862733/136696910-e6e25649-6735-4580-a5c4-03db1a234eb8.png" width = "300">
 
-<em><strong>Figure 3. The structure of the α and β subunit of the luciferase</strong>a, b. The asymmetrical dimer formed by α and β subunit. c, d. Substitutions of some active site at α and β subunit that may lead to decrease in enzyme activity. Red structure is FMN. e. The Asp113, RHis44, RLys112 and RHis45 at the α subunit interact with each other after binding to FMN. The structure predicted phyre2 and label by PyMol.</em>
+<em><strong>Figure 3. The structure of the α and β subunit of the luciferase</strong>a, b. The asymmetrical dimer formed by α and β subunit. c, d. Substitutions of some active site at α and β subunit that may lead to decrease in enzyme activity. Red structure is FMN. e. The Asp113, RHis44, RLys112 and RHis45 at the α subunit interact with each other after binding to FMN. The structure is predicted phyre2 and labelled by PyMol.</em>
 
 ## 2. Construction of  EvolvR system
 
@@ -25,7 +25,7 @@ We attempt to express luciferase in Escherichia coli DH5α and directed evolve l
 
 ### *2.1 Construction of pTarget* 
 
-We amplified luxA and luxB genes from Vibrio FG-1 by PCR, and added J23119 promoter to them. DNA fragments *luxAB*, *ampR* and *p15a* ori were assembled by seamless cloning method. Three fragments with equal molar ratio and Seamless cloning MasterMix was added to incubate according to the instructions of seamless cloning kit. About 20bp homologous sequence between each fragment permit the construction of plasmid. Single colony will be screened on plate containing ampicillin, further colony PCR will be used to verified.
+We amplify luxA and luxB genes from Vibrio FG-1 by PCR, and added J23119 promoter to them. DNA fragments *luxAB*, *ampR* and *p15a* ori were assembled by seamless cloning method. About 20bp homologous sequence between each fragment permit the construction of plasmid. Single colony will be screened on plate containing ampicillin, further colony PCR will be used to verified.
 
 ### *2.2 Design of sgRNA*
 
@@ -65,7 +65,7 @@ In order to optimize the culture scale, different glucose concentrations were ap
 
 <em><strong>Figure 6.The colony number (a) is 1.3 CFU per plate. After incubation for one day in the 96-well plate, OD600 = 0.0699, meaning total number of bacteria Nf = 2x10^5 CFU. The actual number of viable bacteria coated in the complete culture medium(b) is 322.5 CFU per plate, and the viability of bacterial was calculated (viability=0.0016). The number of mutated cells (c =28.64 CFU) was obtained when they were coated in selective medium. Therefore, (zero-level events)p0 = 0.99986. The mutation rate - u = 4.38x10^-7. The original mutation rate is higher than our expectation, and the analysis results are inaccurate due to fewer samples and fewer repeated experiments. Due to the restriction of time, we have not test the basic mutation rate of  E.coli with EvolvR system. 
 
-## 4. Multi-gRNAs
+## 4. Optimization for Multiple gRNAs construction
 
 In industrial production, the desired product or phenotype often requires the co-regulations of multiple genes, such as regulating the metabolic pathway, studying complex gene regulatory networks or polygenic diseases. Multiple gRNAs-guided EvolvR system is of great application value.  If multiple gRNAs guided EvolvR system is designed to target a series of genes and simultaneously direct evolve them, it has the potential to complete the co-directed evolution of an entire metabolic pathway or family of genes in a short period of time. If multiple gRNA guided EvolvR system used to target the same gene, it will increase the overall length of the mutation window, and could even customize the length of the mutation window by selecting the locus and number of gRNAs. 
 

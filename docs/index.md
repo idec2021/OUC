@@ -12,9 +12,8 @@ EvolvR, a system that can continuously diversify all nucleotides within a tunabl
 
 <img src="https://user-images.githubusercontent.com/91862733/137352557-6e1974d0-54fe-43ab-a9aa-0949511841dd.png">
 
-In addition, multiple gRNAs-guided EvolvR system is of great application value. However, due to the problem of genetic instability in the construction process of multiple gRNA, we propose the idea of using ELSA (Extra-long sgRNA Arrays) to help buildmultiple gRNAs-guided EvolvR system. We envision that a stable multiple gRNAs-guided EvolvR system will provide a new strategy for simultaneous evolution of multiple genes, such as metabolic pathways. 
+In addition, multiple gRNAs-guided EvolvR system is of great application value. However, due to the problem of genetic instability in the construction process of multiple gRNA, we propose the idea of using ELSA (Extra-long sgRNA Arrays) to help build multiple gRNAs-guided EvolvR system. We envision that a stable multiple gRNAs-guided EvolvR system will provide a new strategy for simultaneous evolution of multiple genes, such as metabolic pathways. 
 
 # <span style="color:royalblue"> **Our Team** </span>
 
-Our team is based out of the College of Marine Life at Ocean University of China. Our team is made up of energetic undergraduate students who have always loved and devoted themselves to the biological sciences.
-
+Our team is based out of the College of Marine Life at Ocean University of China. Our team is made up of energetic undergraduate students who love life science.

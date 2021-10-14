@@ -1,7 +1,8 @@
 # <b>OUC-IDEC</b>
-We are a group of young people who love biology. When we noticed the information of this wonderful competition, we decided to participate without hesitation, though we are ineperienced at first. This project is the first scientific research project for most of members of our team. We highly appreciate iDEC committee to provide us a research platform to enjoy lectures of outstanding academic scholars and communicate with other excellent teams who indicate great passion in biology. . It is an indisputable fact that we have some problems in project design and experiment execution, which may waste lots of time. But，failure, same as success, is a result. these failure experiences encourage us to reflect and imrpove，promote us to progress, and dramatically enhance our love of the biological science. As Milan Kundera once said, “Einmal ist keinmal”. In the future, we will continue this project and do our best to complete it，further verify our ideas, and keep our love of biology.
+We are a group of young people who love biology. When we noticed the information of this wonderful competition, we decided to participate without hesitation, though we are ineperienced at first. This project is the first scientific research project for most of members of our team. It is an indisputable fact that we have some problems in project design and experiment execution, which may waste lots of time. As Milan Kundera once said, “Einmal ist keinmal ”. The failure experiences are instructive，which encourage us to reflect and imrpove，and dramatically increase our passion to biological science.
 
-<img width="647" alt="Team_Photo" src="https://user-images.githubusercontent.com/91862733/137318118-16e0ab60-4383-484a-ad4e-d66a66ef7c39.jpg">
+We highly appreciate that  iDEC committee provides us an academic platform to carry out  and share a project，listen lectures given by outstanding academic scholars and communicate with other excellent teams. In the future, we will try our best to complete the project, further verify our ideas, and keep our love of biology.
+
 
 ## <b>Team Leader</b>
 ### <span style="color:royalblue"> Weizhe Chen </span>
