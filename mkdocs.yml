@@ -41,6 +41,7 @@ copyright: Copyright &copy; 2021 iDEC. CC-BY-4.0 | The International Directed Ev
 nav:
   - Home: index.md
   - Team: team.md
+  - Poster: poster.md
   - Project:
       - Background: project/background.md
       - Results: project/results.md
