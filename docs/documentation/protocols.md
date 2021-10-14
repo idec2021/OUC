@@ -3,12 +3,12 @@
 
 ## 1.Seamless cloning MasterMix constructs plasmid
 
-<div style="text-align: justify">
-
-### 1.1  DNA manipulation. 
+### 1.1  DNA manipulation.
+ 
 PCR was performed with 2×Taq PCR MasterMix (Solarbio, Beijing, China). Plasmid DNA was isolated with the TIANprep Mini Plasmid Kit (TIANGEN, Bejing, China). DNA fragments were purifified from agarose gels by using the Universal DNA Purufucation Kit (TIANGEN, Bejing, China) or the Monarch DNA Gel Extraction Kit (NEB). DNA sequencing and primer synthesis were carried out by Sangon Biotech (Shanghai, China). 
 
 ### 1.2  Plasmid construction. 
+
 a.The plasmids and primers used in this study are listed in the supplemental material. 
 
 b.To construct pTarget-*luxAB*, the coding regions of *luxAB*, p15A, and AmpR are amplifified from the genome of *Fg-1*, a plasmid from 2021OUC-China iGEM and Cloned UpB_4A3m with three different primer pairs luxAB-F/luxAB-R, p15A-R/p15A-F, AmpR-R/AmpR-F, respectively. The J23119 promoter is added to PCR products of luxAB by primersluxAB-F and J23119R, resulting in J&luxAB. Oligonucleotides are designed to contribute flanking homologous regions to adjacent DNA fragments of 20-25bp in length, resulting in p15A-homo and AmpR-Homo.
@@ -19,13 +19,9 @@ d.Two plasmids were both constructed using the Seamless cloning Master Mix provi
 
 ## 2.Structural forecasting
 
-<div style="text-align: justify">
-
 The nucleotide sequences of gene *luxa* and *luxb* of *fg-1* were translated into amino acid sequences from the first promoter. The structures of both *luxa* and *luxb* protein were predicted by [phyre2](http://www.sbg.bio.ic.ac.uk/phyre2/html/page.cgi?id=index) through homology modeling method. Futher analysis of protein structure including the alignment and sites labeling were accomplished by PyMol.
 
 ## 3.Fluctuation Test
-
-<div style="text-align: justify">
 
 ### 3.1.Optimize the scale of training
 - Start LB cultures of each E. coli strain and grow culturesovernight at 37°C with orbital shaking at 170 rpm.
@@ -53,6 +49,7 @@ The nucleotide sequences of gene *luxa* and *luxb* of *fg-1* were translated int
 - Spread all remaining bacteria into thesame selected medium and count (number of mutant cells- “c”).
 
 ### 3.4.Data analysis: 
+
 Calculatemutation rates:
 
 <img src="https://user-images.githubusercontent.com/91862733/136960017-409cda6c-779f-4798-bdd7-508933899141.PNG" width = "100">
