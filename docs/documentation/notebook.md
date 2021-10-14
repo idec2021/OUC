@@ -1,2 +1,2 @@
-# Lab notebooks
+# <b> Lab notebooks</b>
 
