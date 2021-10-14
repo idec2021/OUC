@@ -8,7 +8,11 @@
 ![GraphicalOverview](https://user-images.githubusercontent.com/91862733/136969711-fd247614-6f98-4fbc-acd3-490ee0aeefb2.jpg)
 
 
-EvolvR, a system that can continuously diversify all nucleotides within a tunable window length at user-defined site, is an attractive method for continuously directed evolution. Our project attempts to conduct directed evolution of luciferase lux of Marine Vibrio FG-1 isolated from the Yellow Sea by using EvolvR system, aiming to explore a luciferase mutant with better potential performance and various luminescence spectrum. In addition, multiple gRNAs-guided EvolvR system is of great application value. However, due to the problem of genetic instability in the construction process of multiple gRNA, we propose the idea of using ELSA (Extra-long sgRNA Arrays) to help buildmultiple gRNAs-guided EvolvR system. We envision that a stable multiple gRNAs-guided EvolvR system will provide a new strategy for simultaneous evolution of multiple genes, such as metabolic pathways. 
+EvolvR, a system that can continuously diversify all nucleotides within a tunable window length at user-defined site, is an attractive method for continuously directed evolution. Our project attempts to conduct directed evolution of luciferase lux of Marine Vibrio FG-1 isolated from the Yellow Sea by using EvolvR system, aiming to explore a luciferase mutant with better potential performance and various luminescence spectrum. 
+
+<img src="https://user-images.githubusercontent.com/91862733/137352557-6e1974d0-54fe-43ab-a9aa-0949511841dd.png">
+
+In addition, multiple gRNAs-guided EvolvR system is of great application value. However, due to the problem of genetic instability in the construction process of multiple gRNA, we propose the idea of using ELSA (Extra-long sgRNA Arrays) to help buildmultiple gRNAs-guided EvolvR system. We envision that a stable multiple gRNAs-guided EvolvR system will provide a new strategy for simultaneous evolution of multiple genes, such as metabolic pathways. 
 
 # <span style="color:royalblue"> **Our Team** </span>
 
